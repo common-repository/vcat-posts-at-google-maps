@@ -1,0 +1,15 @@
+input.regular-text.fail {
+	border: 1px solid #ff0000;
+}
+
+#zoom-slider, #mini-zoom-slider {
+	width: 262px;
+	float: left;
+	margin-top: 6px;
+	margin-right: 10px;
+}
+
+#mini_zoom, #zoom {
+	text-align: center;
+    width: 30px;
+}

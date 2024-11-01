@@ -1,0 +1,514 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#  <wordpress.dziamski.edu.intern.vcat.de@www05.dev.intern.vcat.de>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VCAT EDULABS Geo-Plugin 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-08 09:22+0100\n"
+"PO-Revision-Date: 2015-05-08 10:21+0100\n"
+"Last-Translator: wordpress.dziamski.edu.intern.vcat.de@www05.dev.intern.vcat."
+"de\n"
+"Language-Team: VCAT EDULABS <edulabs@vcat.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../core\n"
+
+#: ../custom/meta.php:3
+msgid ""
+"Here you can type the address in. The latitude and longitude are added "
+"automatically. This post / page is marked at Google map."
+msgstr ""
+"Hier können sie eine Adresse eingeben, die Longitude und Latitude werden "
+"dann automatisch ergänzt, und der Beitrag wird auf der Geomap markiert."
+
+#: ../custom/meta.php:7 ../quickedit/meta.php:11
+msgid "Street"
+msgstr "Straße"
+
+#: ../custom/meta.php:14 ../quickedit/meta.php:18
+msgid "Zip"
+msgstr "Postleitzahl"
+
+#: ../custom/meta.php:21 ../quickedit/meta.php:25
+msgid "Place"
+msgstr "Ort"
+
+#: ../custom/meta.php:28 ../vcat-geo-quickedit-field.php:34
+msgid "Latitude"
+msgstr "Latitude"
+
+#: ../custom/meta.php:36 ../vcat-geo-quickedit-field.php:34
+msgid "Longitude"
+msgstr "Longitude"
+
+#: ../custom/meta.php:44 ../quickedit/meta.php:32
+msgid "Pin Color"
+msgstr "Pin-Farbe"
+
+#: ../custom/meta.php:47 ../quickedit/meta.php:35
+msgid "Standard"
+msgstr "Standart"
+
+#: ../custom/meta.php:64
+msgid "Use current location"
+msgstr "Aktuelle Position übernehmen"
+
+#: ../custom/meta.php:66
+msgid "Save"
+msgstr "Speichern"
+
+#: ../custom/meta.php:67
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../quickedit/meta.php:8
+msgid "VCAT Geo Plugin"
+msgstr "VCAT Geo Plugin"
+
+#: ../vcat-geo-costum-field.php:26
+msgid "VCAT Geo Data"
+msgstr "VCAT Geo Daten"
+
+#: ../vcat-geo-quickedit-field.php:10
+msgid "Address"
+msgstr "Adresse"
+
+#: ../vcat-geo-quickedit-field.php:157
+msgid "Edit this item inline"
+msgstr "Dieses Element hier bearbeiten"
+
+#: ../vcat-geo-quickedit-field.php:159
+msgid "Quick-Edit"
+msgstr "Quick-Edit"
+
+#: ../vcat-posts-at-google-maps.php:100
+msgid "Blue"
+msgstr "Blau"
+
+#: ../vcat-posts-at-google-maps.php:101
+msgid "Red"
+msgstr "Rot"
+
+#: ../vcat-posts-at-google-maps.php:102
+msgid "Yellow"
+msgstr "Gelb"
+
+#: ../vcat-posts-at-google-maps.php:103
+msgid "Green"
+msgstr "Grün"
+
+#: ../vcat-posts-at-google-maps.php:104
+msgid "Orange"
+msgstr "Orange"
+
+#: ../vcat-posts-at-google-maps.php:105
+msgid "Purple"
+msgstr "Lila"
+
+#: ../vcat-posts-at-google-maps.php:106
+msgid "Magenta"
+msgstr "Magenta"
+
+#: ../vcat-posts-at-google-maps.php:107
+msgid "Cyan"
+msgstr "Cyan"
+
+#: ../vcat-posts-at-google-maps.php:108
+msgid "Pink"
+msgstr "Rosa"
+
+#: ../vcat-posts-at-google-maps.php:109
+msgid "Brown"
+msgstr "Braun"
+
+#: ../vcat-posts-at-google-maps.php:110
+msgid "Beige"
+msgstr "Beige"
+
+#: ../vcat-posts-at-google-maps.php:111
+msgid "Gray"
+msgstr "Grau"
+
+#: ../vcat-settings-menu.php:11
+msgid "Geo Map Options"
+msgstr "Geo Map Optionen"
+
+#: ../vcat-settings-menu.php:37
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../vcat-settings-menu.php:58
+msgid "GEO-Plugin Settings"
+msgstr "GEO-Plugin Einstellungen"
+
+#: ../vcat-settings-menu.php:85
+msgid "Big Map"
+msgstr "Große Karte"
+
+#: ../vcat-settings-menu.php:87 ../vcat-settings-menu.php:106
+msgid "Width"
+msgstr "Breite"
+
+#: ../vcat-settings-menu.php:88 ../vcat-settings-menu.php:107
+msgid "Height"
+msgstr "Höhe"
+
+#: ../vcat-settings-menu.php:89
+msgid "Center"
+msgstr "Zentrum"
+
+#: ../vcat-settings-menu.php:90 ../vcat-settings-menu.php:108
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../vcat-settings-menu.php:91 ../vcat-settings-menu.php:109
+msgid "Target"
+msgstr "Ziel"
+
+#: ../vcat-settings-menu.php:92 ../vcat-settings-menu.php:110
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: ../vcat-settings-menu.php:93 ../vcat-settings-menu.php:111
+msgid "Color"
+msgstr "Farbe"
+
+#: ../vcat-settings-menu.php:94 ../vcat-settings-menu.php:112
+msgid "Margin"
+msgstr "Äußerer Abstand"
+
+#: ../vcat-settings-menu.php:95 ../vcat-settings-menu.php:113
+msgid "Padding"
+msgstr "Innerer Abstand"
+
+#: ../vcat-settings-menu.php:104
+msgid "Mini Map"
+msgstr "Kleine Karte"
+
+#: ../vcat-settings-menu.php:120
+msgid ""
+"Here you can edit the standard settings for the Big Map. The width and "
+"height steer the size of the map. The center and zoom can be used to change "
+"the standard alignment. The target sets the attribute of the anchor-tag."
+msgstr ""
+"Hier können sie die Standardeinstellungen für die große Google Map Karte "
+"einstellen, Höhe und Breite bestimmen die Größe der Karte, während Zentrum "
+"und Zoom die Standardausrichtung der Karte bestimmen. Das Ziel bestimmt "
+"wohin die Links der verschiedenen Marker führt."
+
+#: ../vcat-settings-menu.php:131 ../vcat-settings-menu.php:386
+msgid "Values in pixel (px) and percentage (%) allowed, only!"
+msgstr "Nur Pixel- (px) oder Prozentangaben (%)!"
+
+#: ../vcat-settings-menu.php:147 ../vcat-settings-menu.php:402
+msgid "Values in pixel (px) allowed, only!"
+msgstr "Nur Pixelangaben (px)!"
+
+#: ../vcat-settings-menu.php:163
+msgid ""
+"Address strings can consist of letters, numbers, hivens, and dots. A range "
+"of numbers (e.g. 26-53) and additional information (e.g. 3rd floor) are "
+"ignored by Google-API! They should be left at address strings."
+msgstr ""
+"Adressen dürfen neben Buchstaben(inkl. ä,ö,ü,ß) und Zahlen nur Bindestriche "
+"und Punkte enthalten. Multiple Hausnummern(z.B. 26-53) und Begriffszusätze(z."
+"B. Medienhaus) werden zudem von der Google-API ignoriert! Und für ein "
+"möglichst genaues Ergebnis sollten sie diese bei eigenen Adressen weglassen."
+
+#: ../vcat-settings-menu.php:164
+msgid "dynamic"
+msgstr "dynamisch"
+
+#: ../vcat-settings-menu.php:165
+msgid ""
+"If the center is set to dynamic, the center and zoom is calculated "
+"automatically. Every pin is displayed on the map, finally."
+msgstr ""
+"Wenn sie Zentrum auf dynamisch setzen, werden Zentrum und Zoom automatisch "
+"berechnet, so das alle Marker im sichtbaren Bereich liegen."
+
+#: ../vcat-settings-menu.php:199 ../vcat-settings-menu.php:432
+msgid "New Window/New Tab"
+msgstr "Neues Fenster/Neuer Tab"
+
+#: ../vcat-settings-menu.php:200 ../vcat-settings-menu.php:433
+msgid "Active Window"
+msgstr "Aktives Fenster"
+
+#: ../vcat-settings-menu.php:210 ../vcat-settings-menu.php:443
+msgid "left"
+msgstr "links"
+
+#: ../vcat-settings-menu.php:211 ../vcat-settings-menu.php:444
+msgid "right"
+msgstr "rechts"
+
+#: ../vcat-settings-menu.php:222
+msgid "Posts"
+msgstr "Posts"
+
+#: ../vcat-settings-menu.php:229
+msgid "Pages"
+msgstr "Seiten"
+
+#: ../vcat-settings-menu.php:375
+msgid ""
+"Here you can edit the standard settings for the Mini Map. The width and "
+"height steer the size of the map. The zoom can be used to change the "
+"standard alignment. The target sets the attribute of the anchor-tag."
+msgstr ""
+"Hier können sie die Standardeinstellungen für die kleinen Google Map Karten "
+"einstellen, Höhe und Breite bestimmen die Größe der Karte, die "
+"Standardausrichtung bildet der jeweilige Post auf der die Minimap zusehen "
+"ist zusammen mit dem Zoom. Das Ziel bestimmt wohin die Links der "
+"verschiedenen Marker führt."
+
+#: ../vcat-settings-menu.php:455
+msgid "Post"
+msgstr "Post"
+
+#: ../vcat-settings-menu.php:462
+msgid "Page"
+msgstr "Seite"
+
+#~ msgid "Follow us!"
+#~ msgstr "Folgen Sie uns!"
+
+#~ msgid "VCAT at Facebook"
+#~ msgstr "VCAT bei Facebook"
+
+#~ msgid "VCAT at Google+"
+#~ msgstr "VCAT bei Google+"
+
+#, fuzzy
+#~ msgid "vcat_geo_meta_css"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "_vcat_type"
+#~ msgstr "vcat_geo"
+
+#~ msgid "str"
+#~ msgstr "str"
+
+#~ msgid "plz"
+#~ msgstr "plz"
+
+#~ msgid "ort"
+#~ msgstr "ort"
+
+#~ msgid "Adresse"
+#~ msgstr "Adresse"
+
+#, fuzzy
+#~ msgid "vcat_geo_add_settings"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_plugins_list"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_custom_fields_init"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_add_quick_edit"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_db_version_checker"
+#~ msgstr "vcat_geo_mini"
+
+#~ msgid "zoom"
+#~ msgstr "zoom"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#, fuzzy
+#~ msgid "pagecolor"
+#~ msgstr "vcat_geo"
+
+#, fuzzy
+#~ msgid "vcat-geo-map-js"
+#~ msgstr "vcat_geo"
+
+#, fuzzy
+#~ msgid "vcat_geo_align"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_mini_align"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_mini_color"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_color"
+#~ msgstr "vcat_geo"
+
+#~ msgid "vcat_geo"
+#~ msgstr "vcat_geo"
+
+#~ msgid "vcat_geo_mini"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_settings_validate_color"
+#~ msgstr "vcat_geo_mini"
+
+#~ msgid "Große Karte"
+#~ msgstr "Große Karte"
+
+#~ msgid "Breite"
+#~ msgstr "Breite"
+
+#~ msgid "Höhe"
+#~ msgstr "Höhe"
+
+#~ msgid "Zentrum"
+#~ msgstr "Zentrum"
+
+#~ msgid "Ziel"
+#~ msgstr "Ziel"
+
+#, fuzzy
+#~ msgid "vcat_geo_map_align"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_map_alignbox"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_map_color"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_map_colorbox"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_settings_validate_color_mini"
+#~ msgstr "vcat_geo_mini"
+
+#~ msgid "Kleine Karte"
+#~ msgstr "Kleine Karte"
+
+#, fuzzy
+#~ msgid "vcat_geo_mini_map_align"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_mini_map_alignbox"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_mini_map_color"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_geo_mini_map_colorbox"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hier können sie die Standardeinstellungen für die große Google Map Karte "
+#~ "einstellen, Höhe und Breite bestimmen die Größe der Karte, \r\n"
+#~ "\t  während Zentrum und Zoom die Standardausrichtung der Karte bestimmen. "
+#~ "Das Ziel bestimmt wohin die Links der verschiedenen Marker führt. "
+#~ msgstr ""
+#~ "Hier können sie die Standarteinstellungen für die Google Map einstellen, "
+#~ "Höhe und Breite bestimmen die Größe der Karte, \r\n"
+#~ "\t <br>während Zentrum(als Adresse angeben) und Zoom die "
+#~ "Standartausrichtung der Karte bestimmen"
+
+#~ msgid "fail"
+#~ msgstr "fail"
+
+#~ msgid "<p class='description'> Nur Pixel oder Prozentangaben! </p>"
+#~ msgstr "<p class='description'> Nur Pixel oder Prozentangaben! </p>"
+
+#~ msgid "<p class='description'> Nur Pixelangaben! </p>"
+#~ msgstr "<p class='description'> Nur Pixelangaben! </p>"
+
+#~ msgid "TRUE"
+#~ msgstr "TRUE"
+
+#~ msgid "checked"
+#~ msgstr "checked"
+
+#~ msgid "top"
+#~ msgstr "top"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hier können sie die Standardeinstellungen für die kleinen Google Map "
+#~ "Karten einstellen, Höhe und Breite bestimmen die Größe der Karte, \r\n"
+#~ "\t  die Standardausrichtung bildet der jeweilige Post auf der die Minimap "
+#~ "zusehen ist zusammen mit dem Zoom. Das Ziel bestimmt wohin die Links der "
+#~ "verschiedenen Marker führt."
+#~ msgstr ""
+#~ "Hier können sie die Standarteinstellungen für die Google Map einstellen, "
+#~ "Höhe und Breite bestimmen die Größe der Karte, \r\n"
+#~ "\t <br>während Zentrum(als Adresse angeben) und Zoom die "
+#~ "Standartausrichtung der Karte bestimmen"
+
+#, fuzzy
+#~ msgid "vcat_core_create_main_options_page"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_core_main_options_page"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "<ul id=\"vcat-plugins-list\">"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "vcat_core_backend_footer"
+#~ msgstr "vcat_geo_mini"
+
+#, fuzzy
+#~ msgid "Ort"
+#~ msgstr "ort"
+
+#, fuzzy
+#~ msgid "Rot"
+#~ msgstr "ort"
+
+#~ msgid "VCAT bei Facebook"
+#~ msgstr "VCAT bei Facebook"
+
+#~ msgid "VCAT bei Google+"
+#~ msgstr "VCAT bei Google+"
+
+#~ msgid "VCAT bei Slideshare"
+#~ msgstr "VCAT bei Slideshare"
+
+#~ msgid "VCAT bei Twitter"
+#~ msgstr "VCAT bei Twitter"
+
+#~ msgid "VCAT bei WordPress"
+#~ msgstr "VCAT bei WordPress"
+
+#~ msgid "<h2> VCAT Einstellungen: </h2>"
+#~ msgstr "<h2> VCAT Einstellungen: </h2>"
